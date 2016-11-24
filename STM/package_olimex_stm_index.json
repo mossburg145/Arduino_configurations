@@ -21,7 +21,7 @@
 					{
 						"online": "https://www.olimex.com/forum/index.php?board=5.0"
 					},
-					"url": "https://github.com/OLIMEX/Arduino_configurations/raw/master/STM/Versions/Olimex_STM-1.0.0.zip",
+					"url": "https://github.com/mossburg145/Arduino_configurations/raw/master/STM/Versions/Olimex_STM-1.0.0.zip",
 					"archiveFileName": "Olimex_STM-1.0.0.zip",
 					"checksum": "SHA-256:bae194081fb2f91f4905acebf4bba1ba6de1e982c63757ab120013f41d33b1b8",
 					"size": "372380",
